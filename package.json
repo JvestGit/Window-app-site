@@ -19,5 +19,8 @@
   "homepage": "https://github.com/JvestGit/Window-app-site#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "firebase": "^9.6.7"
   }
 }
